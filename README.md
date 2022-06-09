@@ -7,9 +7,8 @@ Back End Developer
 i am a passionate developer learning every day and get updated I have a good hands in wide range of skills such : Nodejs , Reactjs , MongoDb , TailwindCss , Python and Rust
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [https://venerable-faloodeh-01a096.netlify.app](http://venerable-faloodeh-01a096.netlify.app)
 * ✉️  You can contact me at [elkarroumytaha@gmail.com](mailto:elkarroumytaha@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Rust projects
 
 <a href="https://www.twitter.com/ElkarroumyTaha" target="_blank" rel="noreferrer"><img
